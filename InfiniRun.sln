@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfiniRun", "InfiniRun\InfiniRun.csproj", "{5BA8FA3E-B2E4-4465-A5B3-03556FF19528}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACFA5676-BC0A-419F-A787-0185B568B581}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gronia.NeuralNetwork", "Gronia.NeuralNetwork\Gronia.NeuralNetwork.csproj", "{65DD2395-EA86-4B60-9E70-088CBFE2FCF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA8FA3E-B2E4-4465-A5B3-03556FF19528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA8FA3E-B2E4-4465-A5B3-03556FF19528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA8FA3E-B2E4-4465-A5B3-03556FF19528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA8FA3E-B2E4-4465-A5B3-03556FF19528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DD2395-EA86-4B60-9E70-088CBFE2FCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DD2395-EA86-4B60-9E70-088CBFE2FCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DD2395-EA86-4B60-9E70-088CBFE2FCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DD2395-EA86-4B60-9E70-088CBFE2FCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {916277EE-E3FB-43A7-B956-A2F6C0C87845}
+	EndGlobalSection
+EndGlobal
